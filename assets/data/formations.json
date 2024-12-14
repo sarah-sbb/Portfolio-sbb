@@ -1,0 +1,8 @@
+{
+    "formations": [
+      { "name": "La Capsule", "date": "sept. 2024 - mars 2025", "description": "Concepteur développeur d'application wev et mobile", "level": "Bac +3" },
+      { "name": "OpenClassrooms", "date": "mars. 2024 - décembre 2024", "description": "Développeur informatique", "level": "Bac +2" },
+      { "name": "IonisX - ISEFAC", "date": "sept. 2017 - mars 2019", "description": "Master Management et stratégie digitale", "level": "Bac +5" },
+      { "name": "ESPL Angers", "date": "sept. 2010 - juin 2012", "description": "BTS Communication", "level": "Bac +2" }
+    ]
+  }

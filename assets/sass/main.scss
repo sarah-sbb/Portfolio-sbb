@@ -58,3 +58,22 @@
 			}
 		}
 	}
+
+	.formations {
+		display: flex;
+		flex-direction: column;
+		gap: 30px;
+		li {
+			h3, span, p {
+				margin-bottom: 0;
+			}
+
+			.date, .level {
+				font-style: italic;
+			}
+
+			p {
+				color: #0fa8a3;
+			}
+		}
+	}

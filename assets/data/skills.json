@@ -1,0 +1,11 @@
+{
+    "skills": [
+      { "name": "HTML5", "image": "assets/img/html5.svg" },
+      { "name": "CSS3", "image": "assets/img/css3.svg" },
+      { "name": "SASS", "image": "assets/img/sass.svg" },
+      { "name": "JavaScript", "image": "assets/img/JS.svg" },
+      { "name": "ReactJS", "image": "assets/img/reactJS.svg" },
+      { "name": "NodeJS", "image": "assets/img/nodeJS.svg" }
+    ]
+  }
+  
