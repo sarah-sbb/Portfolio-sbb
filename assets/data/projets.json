@@ -1,0 +1,34 @@
+{
+    "projets": [
+      {
+        "titre": "Sophie Bluel",
+        "description": "Architecte d'intérieur<br>J'ai repris une partie du site et ai dû intégrer la page de présentation des travaux de l'architecte (à partir du HTML fourni), la page de connexion de l'administrateur du site (le client) (code à créer de zéro), la modale permettant d'uploader de nouveaux médias (code à créer from scratch).<br>L'utilisation de Javascript était une première pour moi.<br>#Javascript",
+        "github": "https://github.com/sarah-sbb/P3_Architeture",
+        "images": [
+          "assets/img/Architeche1.webp",
+          "assets/img/Architecte3.webp",
+          "assets/img/Architecte4.webp",
+          "assets/img/Architecte2.webp"
+        ]
+      },
+      {
+        "titre": "Kasa",
+        "description": "Kasa est un site de location immobilière. Dans ce projet j'ai dû prendre en main ReactJS avec l'utilisation de React Router. L'idée était d'utiliser au maximum le système de composants pour rendre le site dynamique.<br>#FrontEnd #JavaScript #ReactJS #ReactRouter",
+        "github": "https://github.com/sarah-sbb/P5_Kasa",
+        "images": [
+          "assets/img/Kasa1.webp",
+          "assets/img/Kasa3.webp",
+          "assets/img/Kasa4.webp"
+        ]
+      },
+      {
+        "titre": "Mon vieux Grimoire",
+        "description": "Ce projet m'a permis de découvrir le backend avec NodeJS, Express et MongoDB. L'objectif était d'implémenter un système d'authentification, d'upload d'image et de notation.<br>#BackEnd #NodeJS #Express #MongoDB",
+        "github": "https://github.com/sarah-sbb/P6_Grimoire",
+        "images": [
+          "assets/img/Grimoire1.webp",
+          "assets/img/Grimoire2.webp"
+        ]
+      }
+    ]
+  }  
