@@ -1,6 +1,6 @@
   /* COMPETENCES */
   // Charger les compétences depuis le fichier JSON
-  fetch('/assets/data/skills.json')
+  fetch('assets/data/skills.json')
     .then((response) => response.json())
     .then((data) => {
       const skillsList = document.getElementById('skills-list'); // Cible l'élément <ul>
@@ -16,7 +16,7 @@
     .catch((error) => console.error('Erreur lors du chargement des compétences :', error));
 
 /* FORMATIONS */
-fetch('/assets/data/formations.json')
+fetch('assets/data/formations.json')
   .then((response) => response.json())
   .then((data) => {
     const formationsList = document.getElementById('formations-list'); // Cible l'élément <ul>
